@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import static com.uninorte.proyectomitad.R.id.numero;
+
 
 public class campos extends AppCompatActivity {
 
